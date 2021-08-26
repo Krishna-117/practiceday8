@@ -1,0 +1,5 @@
+How to pull from remote main branch
+git pull origin main
+ 
+how to pull from remote other branch except main
+
